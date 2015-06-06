@@ -31,8 +31,9 @@ setup(
     #version='0.0.2',
     version=__version__,
 
-    description='openweathermap requests fetch weather history Pandas DataFrame',
-    long_description=readme(),
+    setup_requires=['setuptools-markdown'],
+    description='wunderground requests fetch weather history Pandas DataFrame',
+    long_description_markdown_filename='README.md',
 
     # The project's main homepage.
     url=__url__,

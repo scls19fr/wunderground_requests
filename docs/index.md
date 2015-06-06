@@ -12,3 +12,5 @@
 An unofficial [Python](https://www.python.org/) package to request weather data from [Wunderground](http://www.wunderground.com/).
 
 WORK IN PROGRESS - Use it a your own risk
+
+Inspired by https://github.com/scls19fr/openweathermap_requests
