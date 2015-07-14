@@ -4,6 +4,7 @@
 [![License](https://img.shields.io/pypi/l/wunderground_requests.svg)](https://pypi.python.org/pypi/wunderground_requests/)
 [![Development Status](https://img.shields.io/pypi/status/wunderground_requests.svg)](https://pypi.python.org/pypi/wunderground_requests/)
 [![Downloads monthly](https://img.shields.io/pypi/dm/wunderground_requests.svg)](https://pypi.python.org/pypi/wunderground_requests/)
+[![Requirements Status](https://requires.io/github/scls19fr/wunderground_requests/requirements.svg?branch=master)](https://requires.io/github/scls19fr/wunderground_requests/requirements/?branch=master)
 [![Code Health](https://landscape.io/github/scls19fr/wunderground_requests/master/landscape.svg?style=flat)](https://landscape.io/github/scls19fr/wunderground_requests/master)
 [![Build Status](https://travis-ci.org/scls19fr/wunderground_requests.svg)](https://travis-ci.org/scls19fr/wunderground_requests)
 
